@@ -9,7 +9,7 @@
 # Run On Your Machine?
 
 1. Firstly, clone the repository using the git shell <br>
-<code>$ git clone https://github.com/vaibhav0103/personal-portfolio.git</code> <br>
+
 2. Goto the base directory of the project <br>
 <code>cd portfolio </code> <br>
 3. Create a virtual environment and activate it. <br>
@@ -20,5 +20,4 @@
 5. Now start the localhost server<br>
 <code>$ python manage.py runserver</code> <br>
 
-# Live Example
-[Portfolio](https://vaibhavportfolio.herokuapp.com)
+
